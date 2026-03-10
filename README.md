@@ -80,6 +80,3 @@ Alternatively, you can run them in separate terminals:
   ```
 
 The frontend will be accessible at `http://localhost:5173` while the backend runs on `http://localhost:5000`.
-
-## License
-MIT License
